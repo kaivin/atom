@@ -96,8 +96,17 @@ Settings的内容为用户对这个编辑器的个人偏好设置，这个会在
 | Ctrl+G | Go to Line | 跳转到某行 | 可跳转到行，也可跳转到某行的某列位置，语法row:columns。例：20:30——>20行30列 |
 | Ctrl+Shift+L | Select Grammar | 选择语法格式 | 给文件选择一种语言格式，也就是什么后缀的文件 |
 
-
 #### Lines 行
+| 快捷键 | 英文 | 中文 | 作用 |
+| :----- | :---- | :----- | :----- |
+| Ctrl+] | Indent | 缩进 | 光标所在行缩进，其效果如同`Tab`,区别在于光标在行的任何位置，此快捷键都是缩进此行，而非光标在哪里就从哪里缩进 |
+| Ctrl+[ | Outdent | 回退缩进 | 撤销通过`Ctrl+]`产生的缩进 |
+|  | Auto Indent | 自动缩进 | 无测试效果 |
+| Ctrl+Up Arrow | Move Line Up | 光标所在行上移一行 | 如中文 |
+| Ctrl+Down Arrow | Move Line Down | 光标所在行下移一行 | 如中文 |
+| Ctrl+Shift+D | Duplicate Lines | 重复添加光标所在行 | 如中文 |
+| Ctrl+Shift+K | Delete Line | 删除光标所在行 | 如中文 |
+| Ctrl+J | Join Lines | 加入行 | 测试效果为光标所在行的下一行追加到光标所在行后面 |
 
 #### Columns 列
 
