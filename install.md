@@ -42,8 +42,8 @@ rpm -i atom.x86_64.rpm
 
 > ### Tips
 > 需要注意的是，安装完成后会默认安装apm，而apm则是atom的核心package必备命令行，命令行中操作下载插件都需要用到apm,而检查apm是否安装完成则可以通过命令行来测试：<br />
-> 按`cmd+r`输入`cmd`运行cmd 并在cmd内输入`apm -v`如出现版本信息，则表示已安装成功。<br />
-> 如提示不是内部命令，则代表未安装成功或者环境变量未配置。apm会安装在你电脑当前用户的一下路径内：
+> 按`win+r`输入`cmd`并运行 在cmd内输入`apm -v`如出现版本信息，则表示已安装成功。<br />
+> 如提示不是内部命令，则代表未安装成功或者环境变量未配置。apm会安装在你电脑当前用户的以下路径内：
 >
 > `C:\Users\Administrator\AppData\Local\atom\app-1.10.0\resources\app\apm\bin`
 >
