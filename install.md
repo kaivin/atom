@@ -56,7 +56,7 @@ rpm -i atom.x86_64.rpm
 好了，准备工作已经完成，让我们开始atom编辑之旅吧！~
 
 [1]:https://atom.io/ "Atom官网"
-[2]:https://github.com/kaivin/markdown/raw/master/images/download.png ""
+[2]:https://github.com/kaivin/atom/raw/master/images/install/download.png ""
 [3]:https://github.com/atom/atom/releases/ "发布版本"
-[4]:https://github.com/kaivin/markdown/raw/master/images/install/github.png ""
-[5]:https://github.com/kaivin/markdown/raw/master/images/install/path.png ""
+[4]:https://github.com/kaivin/atom/raw/master/images/install/github.png ""
+[5]:https://github.com/kaivin/atom/raw/master/images/install/path.png ""
