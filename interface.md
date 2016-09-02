@@ -15,10 +15,10 @@
 5. Package — 包 就是插件列表的集合点
 6. Help — 帮助 帮助文档、软件更新、协议等
 
-## 1. File —— 文件
+## File —— 文件
 点击File弹出的菜单可以看到被分割线分为了六大块
 
-### 文件操作项
+### 1. 文件操作项
 这一部分都是常规操作，不做详细描述。
 
 | 快捷键 | 英文 | 中文 | 作用 |
@@ -87,25 +87,26 @@ Settings的内容为用户对这个编辑器的个人偏好设置，这个会在
 | Ctrl+A | Select All | 全选 | 如中文 |
 
 ### 3. 其他
-> Toggle Comments 添加注释 快捷键**Ctrl+/**
+#### 单项
+| 快捷键 | 英文 | 中文 | 作用 |
+| :----- | :---- | :----- | :----- |
+| Ctrl+/ | Toggle Comments | 添加注释 | 可根据文件格式智能选择何种注释符 |
+| Alt+Ctrl+Q | Reflow Selection | 浮动选择区域 | 测试效果为光标所在的行追加到其上一行的后面 |
+| Ctrl+Shift+U | Select Encoding | 选择文件编码格式 | 如中文 |
+| Ctrl+G | Go to Line | 跳转到某行 | 可跳转到行，也可跳转到某行的某列位置，语法row:columns。例：20:30——>20行30列 |
+| Ctrl+Shift+L | Select Grammar | 选择语法格式 | 给文件选择一种语言格式，也就是什么后缀的文件 |
 
-> Lines 行
 
-> Columns 列
+#### Lines 行
 
-> Text 文本
+#### Columns 列
 
-> Fol英文ding 折叠
+#### Text 文本
 
-> Reflow Selection 行
+#### Folding 折叠
 
-> Bookmark 列
+#### Bookmark 书签
 
-> Select Encoding 列
-
-> Go to Line 行
-
-> Select Grammar 列
 
 ***
 [1]:https://github.com/kaivin/atom/raw/master/images/interface/welcome.png "欢迎界面"
