@@ -18,9 +18,10 @@
 ## File —— 文件
 点击File弹出的菜单可以看到被分割线分为了六大块
 
+### 文件操作项
+这一部分都是常规操作，不做详细描述。
 | 菜单项 | 描述 | 快捷键 |
 | :----- | :---- | :----- |
-| 文件操作项 |
 | New Window | 新窗口 新建一个Atom窗口 | Ctrl+Shift+N |
 | New File | 新建文件 | Ctrl+N |
 | Open File... | 打开文件 | Ctrl+O |
@@ -28,9 +29,44 @@
 | Add Project Floder... | 添加项目文件夹 | Alt+Ctrl+O |
 | Reopen Last Item | 重新打开最后关闭的那一项 | Ctrl+Shift+T |
 
+### Settings —— 设置
+| 菜单项 | 描述 | 快捷键 |
+| :----- | :---- | :----- |
+| Settings | 设置 | Ctrl+Comma |
+
+Settings的内容为用户对这个编辑器的个人偏好设置，这个会[另写一篇文章][2]进行详细介绍。快捷键`Ctrl+Comma`,其中`Comma`即`逗号`。
+
+### 个人配置文件
+这一块主要是个人偏好配置需要修改的文件。
+| 菜单项 | 描述 |
+| :----- | :---- |
+| Config... | 配置 用户对这个编辑器做了任何改动都可以在这里找到相关信息 |
+| Init Script... | 初始化脚本 |
+| Keymap... | 键盘模式 即快捷键设置，如果编辑器的自身的快捷键你用着不习惯，可以在这里设置成你喜欢的快捷键，具体设置方法会在[设置][2]中讲到 |
+| Snippets... | 代码块 可以在这里预设一个代码块，通过输入在这里设置的一个超短命令后，按`tab`键，达到瞬间输出你在这里所设置的代码块的目的 |
+| Stylesheet... | 样式表，在设置中，用户对这个编辑器本身的样式做了修改后，所修改的样式都会在这里出现 |
+
+### 保存
+| 菜单项 | 描述 | 快捷键 |
+| :----- | :---- | :----- |
+| Save | 保存 | Ctrl+S |
+| Save As... | 另存为... | Ctrl+Shift+S |
+| Save All... | 保存全部 项目中所有经过修改未保存的文件，都会被保存 |  |
+
+### 关闭选项
+| 菜单项 | 描述 | 快捷键 |
+| :----- | :---- | :----- |
+| Close Tab | 关闭选项卡 关闭当前选项卡，即关闭用户当前所在的文件窗口 | Ctrl+W |
+| Close Pane | 关闭窗格 当用户将编辑器进行[分屏操作][3]后，可通过点击此项来关闭当前分屏 |  |
+| Close Window | 关闭窗口 即关闭当前打开的Atom编辑器 | Ctrl+Shift+W |
+
+### 退出
+| 菜单项 | 描述 |
+| :----- | :---- |
+| Exit | 退出 点击此键后，会退出该软件，即如果用户打开了很多项目，每个项目都是一个新窗口编辑器，那么此操作过后，所有打开的编辑器都将被关闭 |
+| Close ALL Tabs | 关闭所有选项卡 关闭所有被打开的选项卡 |
+
 ***
 [1]:https://github.com/kaivin/atom/raw/master/images/interface/welcome.png "欢迎界面"
-[2]:https://github.com/kaivin/atom/raw/master/images/install/download.png "下载示意图"
-[3]:https://github.com/atom/atom/releases/ "发布版本"
-[4]:https://github.com/kaivin/atom/raw/master/images/install/github.png "版本发布示意图"
-[5]:https://github.com/kaivin/atom/raw/master/images/install/path.png "环境变量配置示意图"
+[2]:/settings "设置"
+[3]:/pane "分屏操作"
