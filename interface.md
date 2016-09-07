@@ -432,7 +432,7 @@ Atom同样能支持Markdown语法编译，此插件包就是能让用户在编�
 |  | Convert Tabs to Spaces | 将制表符转换为空格 | 如中文 |
 |  | Convert Spaces to Tabs | 将空格转换为制表符 | 如中文 |
 
-## Help帮助
+## 帮助 —— Help
 ### 开发团队
 | 英文 | 中文 |
 | :----- | :---- |
