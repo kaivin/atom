@@ -8,7 +8,7 @@
     * [Selection(选择)](#Selection —— 选择)
     * [Find(查找)](#Find —— 查找)
     * [Packages(包)](#Packages —— 包)
-    * [Help(帮助)](#Help帮助)
+    * [Help(帮助)](#帮助 —— Help)
 
 ***
 
