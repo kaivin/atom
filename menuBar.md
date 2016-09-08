@@ -1,4 +1,4 @@
-
+# 初识Atom —— 菜单栏（一）
 # 目录
 * [初始界面](#初始界面)
 * [菜单栏](#菜单栏)
@@ -468,9 +468,9 @@ Atom同样能支持Markdown语法编译，此插件包就是能让用户在编�
 
 在这里只是对菜单栏的每一项做个简单介绍以及翻译，具体有些比较常用，或者这里没解释清楚的，后续会有相关文档，敬请关注~！
 
-[1]:https://github.com/kaivin/atom/raw/master/images/interface/welcome.png "欢迎界面"
+[1]:https://github.com/kaivin/atom/raw/master/images/menuBar/welcome.png "欢迎界面"
 [2]:/settings.md "设置"
 [3]:/pane.md "分屏操作"
-[4]:https://github.com/kaivin/atom/raw/master/images/interface/keybinding.png "快捷键操作"
-[5]:https://github.com/kaivin/atom/raw/master/images/interface/markdown.png "markdown预览"
-[6]:https://github.com/kaivin/atom/raw/master/images/interface/snippets.png "代码块"
+[4]:https://github.com/kaivin/atom/raw/master/images/menuBar/keybinding.png "快捷键操作"
+[5]:https://github.com/kaivin/atom/raw/master/images/menuBar/markdown.png "markdown预览"
+[6]:https://github.com/kaivin/atom/raw/master/images/menuBar/snippets.png "代码块"
