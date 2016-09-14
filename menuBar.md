@@ -187,9 +187,9 @@ Settings的内容为用户对这个编辑器的个人偏好设置，这个会在
 | 快捷键 | 英文 | 中文 | 作用 |
 | :----- | :---- | :----- | :----- |
 |  | Open In Dev Mode... | 在Dev分支上打开 | git托管项目操作，可将项目以dev分支在一个新窗口打开 |
-|  | Reload Window | 重新加载窗口 | 重新打开一次编辑器 |
-|  | Run Package Specs | 让包执行特定模式 | 未测试出具体用途 |
-|  | Toggle Developer Tools | 显示/隐藏开发者工具 | 如中文(此编辑器的强大之处~!) |
+| Alt+Ctrl+R | Reload Window | 重新加载窗口 | 重新打开一次编辑器 |
+| Alt+Ctrl+P | Run Package Specs | 让包执行特定模式 | 未测试出具体用途 |
+| Alt+Ctrl+I | Toggle Developer Tools | 显示/隐藏开发者工具 | 如中文(此编辑器的强大之处~!) |
 
 ***
 
