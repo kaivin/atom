@@ -123,4 +123,4 @@
 [11]:https://github.com/kaivin/atom/raw/master/images/settings/keymap2.png "keymap文件"
 [12]:https://github.com/kaivin/atom/raw/master/images/settings/update.png "更新包/主题"
 [13]:/packages.md "包安装"
-[13]:/keymap.md "快捷键设置"
+[14]:/keymap.md "快捷键设置"
